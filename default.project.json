@@ -1,0 +1,14 @@
+{
+    "name": "sirhurt-meme",
+    "tree": {
+        "$className": "DataModel",
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+                "$path": "src/StarterPlayerScripts"
+            }
+        }
+    }
+}
